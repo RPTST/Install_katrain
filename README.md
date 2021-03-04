@@ -36,7 +36,7 @@
     $python3 -m pip uninstall kivy
     $python3 -m pip install --no-binary kivy kivy==2.0.0rc2
     
-    * Install if needed / get an error
+# Install if needed / get an error
     $python3.6 -m venv my_env
 
 # Run katrain
